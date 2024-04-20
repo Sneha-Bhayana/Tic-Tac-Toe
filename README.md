@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe gama
+Enjoy Tic Tac Toe game.
