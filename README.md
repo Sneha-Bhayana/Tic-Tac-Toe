@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Enjoy Tic Tac Toe game with Coding.
+Enjoy Tic Tac Toe game with Coding!
